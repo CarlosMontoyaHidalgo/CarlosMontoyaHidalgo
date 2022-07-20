@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-I am a student from Spain :spain:. Software enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a student from Spain, Canary Islands :canary_islands:. Software enthusiast on the journey making life easier by creating utility tools.
 </p>
 
 
