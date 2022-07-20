@@ -36,7 +36,7 @@ I am a student from Spain :spain:. Software enthusiast on the journey making lif
 
 **📫 Reach me at:**<br>
 
-[![GitHub: Carlos Montoya](https://github.com/CarlosMontoyaHidalgo)
+[GitHub: Carlos Montoya](https://github.com/CarlosMontoyaHidalgo)
 
 <div align="center">
 
