@@ -27,16 +27,16 @@ I am a student from Spain :spain:. Software enthusiast on the journey making lif
 
 
 **🌱 Looking forward to learn:**
-
+<p align="center">
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+</p>
 
 <div align="center">
 
 **📫 Reach me at:**<br>
 
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
+[![GitHub: Carlos Montoya](https://github.com/CarlosMontoyaHidalgo)
 
 <div align="center">
 
