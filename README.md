@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Carlos 👋
 
 <!--
 **CarlosMontoyaHidalgo/CarlosMontoyaHidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,5 @@ I am a student from Spain :spain:. Software enthusiast on the journey making lif
 [GitHub: Carlos Montoya](https://github.com/CarlosMontoyaHidalgo)
 
 <div align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
-
+ULPGC Student
 </div>  
