@@ -30,7 +30,7 @@ I am a student from Spain, Canary Islands :canary_islands:. Software enthusiast 
 <p align="center">
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-ar21.svg"></a></code>
+<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
   
 </p>
 
