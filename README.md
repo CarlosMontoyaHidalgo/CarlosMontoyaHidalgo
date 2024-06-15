@@ -1,71 +1,49 @@
 ### Hello! I'm Carlos 👋
 
-<!--
-**CarlosMontoyaHidalgo/CarlosMontoyaHidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-
+<h1 align="center"><b>Hello World! 🌍</b></h1>
 
 <p align="center">
-I am a student from Spain, Canary Islands :canary_islands:. Software enthusiast on the journey making life easier by creating utility tools.
+  I am a student from Spain, Canary Islands 🏝️. Software enthusiast on the journey of making life easier by creating utility tools.
 </p>
 
-** Technologies used **
+<h2 align="center"><b>Technologies Used</b></h2>
 <p align="center">
-  <code>
-    <a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
-  </code>
-  <code>
-    <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a>
-  </code>
-  <code>
-    <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a>
-  </code>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+  </a>
   <br>
-  <code>
-  <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
-  </code>
-
-  <code>
-  <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
-  </code>
-
-  <code>
-    <a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a>
-  </code>
-  
+  <a href="https://firebase.google.com/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+  </a>
 </p>
 
+<h2 align="center"><b>💼 Currently Studying</b></h2>
 
-**💼 Currently studying **
-
-
-**🌱 Looking forward to learn:**
+<h2 align="center"><b>🌱 Looking Forward to Learning:</b></h2>
 <p align="center">
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+  <a href="https://reactjs.org/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  </a>
+</p>
 
-  
+<h2 align="center"><b>📫 Reach Me At:</b></h2>
+<p align="center">
+  <a href="mailto:carlos.montoya101@alu.ulpgc.es">ULPGC: Carlos Montoya</a><br>
+  <a href="https://github.com/CarlosMontoyaHidalgo" target="_blank">GitHub: Carlos Montoya</a>
 </p>
 
 <div align="center">
-
-**📫 Reach me at:**<br>
-
-[ULPGC: Carlos Montoya](carlos.montoya101@alu.ulpgc.es)
-[GitHub: Carlos Montoya](https://github.com/CarlosMontoyaHidalgo)
-
-<div align="center">
-ULPGC Student
-</div>  
+  ULPGC Student
+</div>
