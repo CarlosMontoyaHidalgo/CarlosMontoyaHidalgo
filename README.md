@@ -29,9 +29,9 @@
   </a>
 </p>
 
-<h2 align="center"><b>💼 Currently Studying</b></h2>
+<h2 align="center"><b>💼 Currently Studying at ULPGC</b></h2>
 
-<h2 align="center"><b>🌱 Looking Forward to Learning:</b></h2>
+<h2 align="center"><b>🌱 Looking Forward to Learn About:</b></h2>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
