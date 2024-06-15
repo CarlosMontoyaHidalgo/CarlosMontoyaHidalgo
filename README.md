@@ -33,6 +33,7 @@ I am a student from Spain, Canary Islands :canary_islands:. Software enthusiast 
   <code>
     <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a>
   </code>
+  <br>
   <code>
   <a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
   </code>
