@@ -47,6 +47,9 @@
 <p align="center">
   <a href="mailto:carlos.montoya101@alu.ulpgc.es">ULPGC: Carlos Montoya</a><br>
   <a href="https://github.com/CarlosMontoyaHidalgo" target="_blank">GitHub: Carlos Montoya</a>
+  <a href="https://www.linkedin.com/in/carlos-montoya-258a57313/" target="_blank">Linkedin: Carlos Montoya</a>
+
+  
 </p>
 
 <div align="center">
