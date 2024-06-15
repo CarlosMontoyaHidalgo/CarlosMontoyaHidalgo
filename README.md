@@ -27,6 +27,11 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
   </a>
+  <a href="https://www.java.com/es/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+  </a>
+
+  
 </p>
 
 <h2 align="center"><b>💼 Currently Studying at ULPGC</b></h2>
