@@ -30,6 +30,12 @@
   <a href="https://www.java.com/es/" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+  </a>
 
   
 </p>
