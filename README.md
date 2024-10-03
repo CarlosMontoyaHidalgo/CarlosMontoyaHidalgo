@@ -36,7 +36,16 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
   </a>
-
+  <a href="#" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+  </a>
+  
   
 </p>
 
