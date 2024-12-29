@@ -5,7 +5,7 @@
 <p align="center">
   I am a student from Spain, Canary Islands 🏝️. Software enthusiast on the journey of making life easier by creating utility tools.
 </p>
-
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <h2 align="center"><b>Technologies Used</b></h2>
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank">
