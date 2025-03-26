@@ -8,11 +8,11 @@ I am software developer with experience in various technologies and frameworks. 
 - ULPGC: [carlos.montoya101@alu.ulpgc.es](mailto:carlos.montoya101@alu.ulpgc.es)
 
 ## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMontoyaHidalgo&layout=compact&theme=material-palenight) <!-- Tema material-palenight -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMontoyaHidalgo&layout=compact&theme=material-palenight)
 
 ## 🚀💻 Technologies & Tools
 
-The technologies that i use are React, Next.js and Kotlin.
+The technologies that i focus on are React, Next.js and Kotlin.
 
 Currently I'm learning and reinforcing my knowledge in MySQL.
 
