@@ -12,7 +12,7 @@ I am software developer with experience in various technologies and frameworks. 
 
 ## 🚀💻 Technologies & Tools
 
-The technologies that I use are React, Next.js and Kotlin.
+The technologies that i use are React, Next.js and Kotlin.
 
 Currently I'm learning and reinforcing my knowledge in MySQL.
 
