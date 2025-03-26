@@ -1,16 +1,7 @@
 ### Hi! I'm Carlos Montoya 👋
 
 ## 👨‍💻 About Me
-I am software developer with experience in various technologies and frameworks. I enjoy learning new things and taking on challenging projects. 
-
-## 📫 Contact
-- Email: [carlosmh561@gmail.com](mailto:carlosmh561@gmail.com)
-- ULPGC: [carlos.montoya101@alu.ulpgc.es](mailto:carlos.montoya101@alu.ulpgc.es)
-
-## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMontoyaHidalgo&layout=compact&theme=material-palenight)
-
-## 🚀💻 Technologies & Tools
+I am software developer with experience in various technologies and frameworks. I enjoy learning new things.
 
 The technologies that i focus on are React, Next.js and Kotlin.
 
@@ -21,8 +12,16 @@ Currently I'm learning and reinforcing my knowledge in MySQL.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+## 📫 Contact
+- Email: [carlosmh561@gmail.com](mailto:carlosmh561@gmail.com)
+- ULPGC: [carlos.montoya101@alu.ulpgc.es](mailto:carlos.montoya101@alu.ulpgc.es)
 
-Theseare the tecnologies thaat i have used before:
+## 🛠️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMontoyaHidalgo&layout=compact&theme=material-palenight)
+
+## 🚀💻 Technologies & Tools
+
+Theseare the tecnologies that i have used before:
 
 ### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
