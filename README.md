@@ -12,6 +12,18 @@ I am software developer with experience in various technologies and frameworks. 
 
 ## 🚀💻 Technologies & Tools
 
+The technologies that I use are React, Next.js and Kotlin.
+
+Currently I'm learning and reinforcing my knowledge in MySQL.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+Theseare the tecnologies thaat i have used before:
+
 ### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
