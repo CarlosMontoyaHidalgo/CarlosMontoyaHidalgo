@@ -33,6 +33,10 @@ Theseare the tecnologies that i have used before:
 ### IDEs/Editors
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+### Automation Tools
+![Make](https://img.shields.io/badge/Make.io-1A82E2?style=flat-square&logo=data:image/svg+xml;base64,...&logoColor=white)
+
+
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
 
