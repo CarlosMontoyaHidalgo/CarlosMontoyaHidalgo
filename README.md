@@ -5,8 +5,9 @@ I am software developer with experience in various technologies and frameworks. 
 
 The technologies that i focus on are React, Next.js and Kotlin.
 
-Currently I'm learning and reinforcing my knowledge in MySQL. I just finished the tutorial and currently i'm practicing on the website [hackerrank](https://www.hackerrank.com).
-As well as starting with Swift.
+Currently, I’m working on my final university project — an Android application — and expanding my skills in AI automation through an online course.
+I also recently started exploring Swift and iOS development.
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
